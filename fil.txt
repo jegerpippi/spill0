@@ -1,0 +1,10 @@
+echo "#   10 hell"
+echo "#   100 if sum(game)==0 goto 10"
+echo ...
+echo 'Hei. Jeg vil ikke skade hverken deg, meg selv eller noen andre'
+echo 'Det rundt oss kalles verden, det inni oss kalles gugge og innvoller'
+echo 'Muligens kalles det føleler også. Det vet jeg ikke. Vanskelig for andre å vite'
+echo 'Selv føler jeg meg som verdens snilleste menneske. Og jeg stoler på at jeg ikke vil andre noe vondt'
+echo 'Likevel er det lite annet enn frykt og fordommer som møter meg.'
+
+
