@@ -1,2 +1,2 @@
-# spill0
+# Spill
 Spillteori
